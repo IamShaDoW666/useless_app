@@ -79,7 +79,7 @@ class _TranslatorScreenState extends State<TranslatorScreen> {
                   const Text("To"),
                   DropdownButton<String>(
                     value: to,
-                    icon: const Icon(Icons.arrow_drop_down  ),
+                    icon: const Icon(Icons.arrow_drop_down),
                     elevation: 16,
                     style: const TextStyle(color: Colors.black),
                     underline: Container(
